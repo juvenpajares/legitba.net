@@ -5,9 +5,6 @@
         "memory": 1024,
         "maxDuration": 10
       }
-    },
-    "env": {
-      "GOOGLE_FACTCHECK_API_KEY": "AIzaSyBzDPOpXKjTAlTX14iGY-4hU3nG5azFhyw"
     }
   }
   
